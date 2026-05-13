@@ -56,9 +56,9 @@ Smart-Motor-Health-Monitoring-System/
 │   └── motor_monitoring_code.ino
 │
 │── docs/
-│   └── project_report.pdf
+│   └── Motor_Health_Monitoring_Report.pdf
 │
 │── images/
-│   └── setup_image.png
+│   └── setup_image.jpg
 │
 └── README.md
